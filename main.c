@@ -10,5 +10,7 @@ int main(){
     int c = 2 + 2;
 
     printf("hello fml");
+
+    printf("teste");
     return 0;
 }
