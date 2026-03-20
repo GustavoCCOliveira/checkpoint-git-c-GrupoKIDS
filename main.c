@@ -12,6 +12,7 @@ int main(){
     printf("hello fml");
     printf("meu nome é carlos");
     int ano = 2026;
+    printf("qual o ano: ", ano);
 
     printf("teste");
     return 0;
