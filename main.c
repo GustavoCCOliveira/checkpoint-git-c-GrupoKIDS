@@ -7,6 +7,7 @@ int main(){
 
     int idade = 20;
     printf("qual a idade", idade);
+    c = 2 + 2
 
     return 0;
 }
