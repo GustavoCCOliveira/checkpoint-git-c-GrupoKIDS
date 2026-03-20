@@ -7,5 +7,6 @@ int main(){
 
     int idade = 20;
 
+    printf("hello fml");
     return 0;
 }
