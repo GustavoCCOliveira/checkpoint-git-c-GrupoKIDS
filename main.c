@@ -5,6 +5,7 @@ int main(){
 
     printf("ola mundo");
     int dinheiro = 1000;
+     printf("qual é seu salário", dinheiro);
     int idade = 20;
     printf("qual a idade", idade);
     int c = 2 + 2;
