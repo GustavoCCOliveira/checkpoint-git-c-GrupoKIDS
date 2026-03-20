@@ -9,5 +9,6 @@ int main(){
     printf("qual a idade", idade);
     int c = 2 + 2;
 
+    printf("hello fml");
     return 0;
 }
