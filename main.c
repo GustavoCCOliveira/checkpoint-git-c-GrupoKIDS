@@ -10,6 +10,7 @@ int main(){
     int c = 2 + 2;
 
     printf("hello fml");
+    printf("meu nome é carlos");
 
     printf("teste");
     return 0;
