@@ -7,8 +7,7 @@ int main(){
 
     int idade = 20;
     printf("qual a idade", idade);
-    int c = 2 + 2;
-
-    printf("hello fml");
+    int ano = 1945
+    
     return 0;
 }
