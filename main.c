@@ -9,5 +9,7 @@ int main(){
     printf("qual a idade", idade);
 
     printf("hello fml");
+
+    printf("teste");
     return 0;
 }
